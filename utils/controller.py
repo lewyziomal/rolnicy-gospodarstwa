@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 
-
 def get_coordinates(location: str) -> list[float]:
+    """Scrapuje Wikipedię i zwraca [lat, lon]."""
     url = f'https://pl.wikipedia.org/wiki/{location}'
     response = requests.get(url).text
     soup = BeautifulSoup(response, "html.parser")

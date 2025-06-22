@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="850e8651-5a9d-4f0b-8d8b-2a6184183717" name="Changes" comment="wip">
+      <change afterPath="$PROJECT_DIR$/farms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/clients.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/controler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/employees.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="tworzenie-projektu" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lewyziomal&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lewyziomal/rolnicy-gospodarstwa.git&quot;,
+    &quot;accountId&quot;: &quot;329a4d75-6f54-4f50-ae26-171c942cd6fd&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2y5vDvTkeEVDVXg7tW33RpTdEm8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.controler.executor": "Run",
+    "Python.farms.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.notatnik.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "farma",
+    "last_opened_file_path": "C:/Users/User/Documents/GitHub/rolnicy-gospodarstwa",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="rolnicy-gospodarstwa" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="850e8651-5a9d-4f0b-8d8b-2a6184183717" name="Changes" comment="" />
+      <created>1749137133020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749137133020</updated>
+      <workItem from="1749137134176" duration="3656000" />
+      <workItem from="1749190884355" duration="1938000" />
+      <workItem from="1749295323182" duration="204000" />
+      <workItem from="1749295931814" duration="1299000" />
+      <workItem from="1749297671568" duration="1575000" />
+      <workItem from="1749299360859" duration="1176000" />
+      <workItem from="1749300568252" duration="3723000" />
+      <workItem from="1749657264122" duration="2391000" />
+      <workItem from="1749659685132" duration="1174000" />
+      <workItem from="1750325654427" duration="16000" />
+      <workItem from="1750441677336" duration="1407000" />
+      <workItem from="1750446969059" duration="8440000" />
+    </task>
+    <task id="LOCAL-00001" summary="stworzenie listy gospodarstw, edycji, usuwania i dodawania">
+      <option name="closed" value="true" />
+      <created>1749152817182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749152817182</updated>
+    </task>
+    <task id="LOCAL-00002" summary="stworzenie listy gospodarstw, edycji, usuwania i dodawania">
+      <option name="closed" value="true" />
+      <created>1749299248432</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749299248432</updated>
+    </task>
+    <task id="LOCAL-00003" summary="stworzono pierwszego commita na srodowisku feat">
+      <option name="closed" value="true" />
+      <created>1749300968873</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749300968873</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Stworzenie pierwowzoru do projektu wzgledem projektu laboracyjnego">
+      <option name="closed" value="true" />
+      <created>1749659121488</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749659121488</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Stworzenie pierwowzoru testu do projektu wzgledem projektu laboracyjnego">
+      <option name="closed" value="true" />
+      <created>1749659640072</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749659640072</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Stworzenie pierwowzoru testu do projektu wzgledem projektu laboracyjnego">
+      <option name="closed" value="true" />
+      <created>1749659952779</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749659952779</updated>
+    </task>
+    <task id="LOCAL-00007" summary="wip">
+      <option name="closed" value="true" />
+      <created>1750441753448</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1750441753448</updated>
+    </task>
+    <task id="LOCAL-00008" summary="wip">
+      <option name="closed" value="true" />
+      <created>1750452082974</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1750452082974</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="stworzenie listy gospodarstw, edycji, usuwania i dodawania" />
+    <MESSAGE value="stworzono pierwszego commita na srodowisku feat" />
+    <MESSAGE value="Stworzenie pierwowzoru do projektu wzgledem projektu laboracyjnego" />
+    <MESSAGE value="Stworzenie pierwowzoru testu do projektu wzgledem projektu laboracyjnego" />
+    <MESSAGE value="wip" />
+    <option name="LAST_COMMIT_MESSAGE" value="wip" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rolnicy_gospodarstwa$farms.coverage" NAME="farms Coverage Results" MODIFIED="1750453002442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rolnicy_gospodarstwa$controler.coverage" NAME="controler Coverage Results" MODIFIED="1750451844878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/rolnicy_gospodarstwa$main.coverage" NAME="main Coverage Results" MODIFIED="1750507308729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/rolnicy_gospodarstwa$notatnik.coverage" NAME="notatnik Coverage Results" MODIFIED="1749193331371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
