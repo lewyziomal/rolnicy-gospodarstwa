@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="850e8651-5a9d-4f0b-8d8b-2a6184183717" name="Changes" comment="wip">
-      <change afterPath="$PROJECT_DIR$/farms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/controller.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/clients.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/controler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/employees.py" afterDir="false" />
-    </list>
+    <list default="true" id="850e8651-5a9d-4f0b-8d8b-2a6184183717" name="Changes" comment="final project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +118,7 @@
       <workItem from="1749659685132" duration="1174000" />
       <workItem from="1750325654427" duration="16000" />
       <workItem from="1750441677336" duration="1407000" />
-      <workItem from="1750446969059" duration="8440000" />
+      <workItem from="1750446969059" duration="9153000" />
     </task>
     <task id="LOCAL-00001" summary="stworzenie listy gospodarstw, edycji, usuwania i dodawania">
       <option name="closed" value="true" />
@@ -193,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750452082974</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="final project">
+      <option name="closed" value="true" />
+      <created>1750586552520</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1750586552520</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +227,8 @@
     <MESSAGE value="Stworzenie pierwowzoru do projektu wzgledem projektu laboracyjnego" />
     <MESSAGE value="Stworzenie pierwowzoru testu do projektu wzgledem projektu laboracyjnego" />
     <MESSAGE value="wip" />
-    <option name="LAST_COMMIT_MESSAGE" value="wip" />
+    <MESSAGE value="final project" />
+    <option name="LAST_COMMIT_MESSAGE" value="final project" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/rolnicy_gospodarstwa$farms.coverage" NAME="farms Coverage Results" MODIFIED="1750453002442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
